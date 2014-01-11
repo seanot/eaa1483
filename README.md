@@ -1,0 +1,1 @@
+This is a basic static website built with Sinatra for an EAA chapter. Included will be a membership roster with basic crud capabilities.
